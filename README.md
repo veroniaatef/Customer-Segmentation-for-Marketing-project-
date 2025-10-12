@@ -5,7 +5,7 @@ used Power BI to do this project , Dataset used: E-commerce Customer Data (Kaggl
  dataset link : https://www.kaggle.com/datasets/carrie1/ecommerce-data
 Built an RFM-based customer segmentation dashboard in Power BI to classify customers into Loyal, Lost, At Risk, and Potential groups.
 
-Cleaned and transformed over 10K+ transactional records using Power Query.
+Cleaned and transformed transactional records using Power Query.
 
 Created Recency, Frequency, and Monetary features and dynamic scoring using DAX.
 
